@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    text-align: center;
+    margin-top: 10rem;
+    background: linear-gradient(to right , green , red);
+}
+h1{
+    font-size: 5rem;
+    margin: 1rem auto;
+    width: 40%;
+    
+}
+
+.btn1{ 
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 45px;
+    border-radius: 50px;
+    cursor: pointer;
+}
